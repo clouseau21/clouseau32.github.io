@@ -38,7 +38,7 @@
         class="vue-typed"
         :showCursor="false"
         :loop="true"
-        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'Ku ingin bilang padamu... ^2500', 'Muka mu jelek']"
+        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'Ku ingin bilang padamu... ^2500', 'MUKA MU JELEK ^1000', 'AAWKOAKWOAKOAKW ^2000']"
         :backDelay="500"
         :typeSpeed="100"
         :backSpeed="20"
